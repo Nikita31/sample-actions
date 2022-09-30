@@ -1,0 +1,13 @@
+Libs Used:
+
+LiveData: It notifies views of any database changes. Use LiveData to build data objects that notify views when the underlying database changes.
+ViewModel: It manages UI-related data in a lifecycle-conscious way. It stores UI-related data that isn't destroyed on app rotations.
+RxJava : It is a library for composing asynchronous streams of real-time data and event-based programs by using observable sequences in a Reactive Programming style
+Library used
+Viewmodel
+Livedata
+Dagger2
+Dagger Android
+RxJava
+Retrofit
+Glide
